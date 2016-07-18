@@ -1,0 +1,41 @@
+	img
+	{
+	float: right;
+	}
+	body
+	{
+		background: #f6f6f6;
+	}
+	button
+	{
+		border-radius: 30px;
+		background: #61ba00;
+		border: none;
+		color: #fff;
+		width: 90%;
+		height: 54px;
+	    margin: 42px 10px 8px 10px;
+		font-size: 22px;
+	}
+	input[type=text] {
+		margin-bottom: 7px;
+		margin-top: 10px;
+		padding: 10px;
+		width: 90%;
+		border: 2px solid #e9e9e9;
+		font-size: 21px;
+	}
+	.signUpLink
+	{
+		
+		color:#b0bca2;
+	}
+	header
+	{
+		height:200px;
+	}
+	.formCss
+	{
+		 line-height:70px; 
+		 text-align:center;	
+	}
