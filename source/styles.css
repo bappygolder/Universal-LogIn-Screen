@@ -56,7 +56,7 @@ Structure
 		
 	}
 	input[type=text] {
-		margin-bottom: 7px;
+		/*margin-bottom: 7px; */
 		margin-top: 10px;
 		padding: 15px;
 		width: 87%;
@@ -128,6 +128,12 @@ Media Queries
 
 /*If screen is bigger than given size below*/
 @media screen and (min-width: 500px) {
+
+    .container {
+        max-width: 320px;
+    }
+	.container {
+    margin: auto auto 23px;
 
 }
 
